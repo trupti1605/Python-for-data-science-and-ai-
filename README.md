@@ -3,6 +3,7 @@
 ### INTRODUCTION :-
 
 GDP is a measure of the market value of all the final goods and services prodiced in a period.
+In this assignment we will examine how changes in the GDP will impact the unemployment rate.
  
 ### Objective :-
 There are several questions which have to be answered in this peer graded assignment.
